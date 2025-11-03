@@ -1,4 +1,4 @@
-const semesterStart = new Date('2025-04-07T00:00:00Z');
+const semesterStart = new Date('2025-10-13T00:00:00Z');
 const semesterEnd = new Date(semesterStart);
 semesterEnd.setDate(semesterStart.getDate() + (22 * 7));
 
